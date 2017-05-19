@@ -1,4 +1,4 @@
-# keypad-access
+# Keypad Access Passcode Game Demo
 
 ![Logo](/img/keypad-access-banner.png?raw=true "Logo")
 
